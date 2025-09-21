@@ -37,7 +37,7 @@ This project creates a **professional-grade smart trashcan** using Arduino UNO/E
 - **Web dashboard** - Real-time monitoring via web interface
 
 ### 🎯 Current Status
-- **Phase**: Professional Development
+- **Phase**: Development
 - **Status**: 🚧 **ACTIVE DEVELOPMENT**
 - **Focus**: Professional Android Application & IoT Integration
 
@@ -231,17 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 📞 Support & Contact
-
-### Community
-- **GitHub Issues**: [Report bugs](https://github.com/your-username/smart-trashcan/issues)
-- **Discussions**: [Feature requests](https://github.com/your-username/smart-trashcan/discussions)
-- **Email**: support@smarttrashcan.dev
-
-### Development Team
-- **Project Lead**: [Your Name]
-- **Hardware Engineer**: [Name]
-- **Mobile Developer**: [Name]
-- **IoT Specialist**: [Name]
+- **Email**: mahardikaputr47@gmail.com
 
 ---
 
@@ -259,5 +249,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Project Status**: 🚧 **Active Development** |
-**Last Updated**: December 2024 |
+**Last Updated**: 21 Sept 2025 |
 **Version**: 1.0.0
